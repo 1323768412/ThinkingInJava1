@@ -1,0 +1,1 @@
+package typeinfo.interfacea; //: typeinfo/interfacea/A.javapublic interface A {  void f();} ///:~
